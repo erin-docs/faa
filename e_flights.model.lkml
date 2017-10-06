@@ -3,6 +3,7 @@ connection: "red_flight"
 # test comment
 # test comment 2
 # test comment 3
+# test comment 4
 
 # include all the views
 include: "*.view"
@@ -29,3 +30,5 @@ explore: flights_by_day {}
 explore: ontime {}
 
 explore: temp2 {}
+
+explore: erin_value_format_testing {}
