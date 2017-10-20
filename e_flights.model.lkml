@@ -11,6 +11,7 @@ include: "*.view"
 # include all the dashboards
 include: "*.dashboard"
 
+# test comment
 explore: accidents {}
 
 explore: aircraft {}
