@@ -7,6 +7,7 @@ connection: "red_flight"
 # tig comment
 
 # Erin Test Commit Monday Morning
+# Erin Test Commit Monday Morning
 
 # include all the views
 include: "*.view"
