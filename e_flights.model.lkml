@@ -5,6 +5,8 @@ connection: "red_flight"
 # test comment 3
 # test comment 4
 
+# Erin Test Commit Monday Morning
+
 # include all the views
 include: "*.view"
 
