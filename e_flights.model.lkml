@@ -27,5 +27,3 @@ explore: flights_by_day {}
 explore: ontime {}
 
 explore: temp2 {}
-
-explore: erin_value_format_testing {}
