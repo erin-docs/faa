@@ -16,8 +16,6 @@ explore: aircraft_models {}
 
 explore: airports {}
 
-explore: cal454 {}
-
 explore: carriers {}
 
 explore: flights {}
