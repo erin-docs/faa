@@ -1,4 +1,5 @@
 view: airports {
+  view_label: "Location and code information for airports"
   sql_table_name: public.airports ;;
 
   dimension: id {
