@@ -1,6 +1,4 @@
-<br/>
-<br/>
-<br/><img style="width:300px" alt="Looker" id="img-logo" src="https://wwwstatic-a.lookercdn.com/homepage/new_home/looker.svg" />
+<img style="width:300px" alt="Looker" id="img-logo" src="https://wwwstatic-a.lookercdn.com/homepage/new_home/looker.svg" />
 
 <br/>
 <br/>
