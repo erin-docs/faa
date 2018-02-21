@@ -8,6 +8,8 @@ include: "*.view"
 include: "*.dashboard"
 
 # test comment
+# test comment 2
+
 explore: accidents {}
 
 explore: aircraft {}
