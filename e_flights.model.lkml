@@ -24,5 +24,3 @@ explore: flights {}
 explore: flights_by_day {}
 
 explore: ontime {}
-
-explore: temp2 {}
