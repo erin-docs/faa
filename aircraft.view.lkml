@@ -1,6 +1,8 @@
 view: aircraft {
   sql_table_name: public.aircraft ;;
 
+#comment
+
   dimension: address1 {
     type: string
     sql: ${TABLE}.address1 ;;
