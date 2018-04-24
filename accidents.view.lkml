@@ -185,6 +185,15 @@ view: accidents {
     type: count
     drill_fields: [id, airport_name]
   }
+
+  measure: countfiltered {
+    type: count
+    filters: {
+      field: country
+      value: "Bolivia, Chile, China"
+      }
+  }
+
 }
 
 # pull request recommended
