@@ -1,7 +1,5 @@
 connection: "red_flight"
 
-#comment
-
 # include all the views
 include: "*.view"
 
