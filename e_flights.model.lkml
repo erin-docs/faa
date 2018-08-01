@@ -3,8 +3,8 @@ connection: "red_flight"
 # include all the views
 include: "*.view"
 
-# include all the dashboards
-include: "*.dashboard"
+# include all the -some different words conflicting- dashboards
+# include: "*.dashboard"
 
 # test comment
 
