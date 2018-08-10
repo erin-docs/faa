@@ -20,4 +20,9 @@ view: carriers {
     type: count
     drill_fields: [name, nickname]
   }
+
+  dimension: name_two {
+    type: string
+    sql: ${TABLE}.name ;;
+  }
 }
