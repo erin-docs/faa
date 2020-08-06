@@ -3,7 +3,11 @@ connection: "red_flight"
 # include all the views
 include: "*.view"
 
+<<<<<<< HEAD
 # include all the -creating merge conflict- dashboards
+=======
+# include all the -some different words conflicting- dashboards
+>>>>>>> branch 'master' of git@github.com:erin-docs/faa.git
 # include: "*.dashboard"
 
 # test comment
