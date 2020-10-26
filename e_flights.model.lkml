@@ -3,12 +3,6 @@ connection: "red_flight"
 # include all the views
 include: "*.view"
 
-
-# -creating merge conflict-
-# include: "*.dashboard"
-
-# test comment
-
 datagroup: e_flight_daily {
   max_cache_age: "5 seconds"
 }
