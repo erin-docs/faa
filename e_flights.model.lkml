@@ -3,10 +3,15 @@ connection: "red_flight"
 # include all the views
 include: "*.view"
 
-# include all the -some different words conflicting- dashboards
+
+# - for sure merge conflict -
 # include: "*.dashboard"
 
 # test comment
+
+datagroup: e_flight_daily {
+  max_cache_age: "5 seconds"
+}
 
 explore: accidents {}
 
